@@ -20,8 +20,6 @@ The neural network is a fully connected feedforward model with the following lay
 - **Dense Layer 2**: 50 neurons, ReLU activation function.
 - **Output Layer**: 10 neurons, Sigmoid activation function to predict the digit class.
 
-## Installation
-To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
